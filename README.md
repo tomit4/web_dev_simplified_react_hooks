@@ -17,3 +17,24 @@ npm i && npm run dev
 ```
 
 This will serve base application (usually from port 5173).
+
+**Video Checklist:**
+
+- [x] useState
+- [x] useEffect
+- [x] useMemo
+- [ ] useRef
+- [ ] useContext
+- [ ] useReducer
+- [ ] useCallback
+- [ ] Custom Hooks
+- [ ] useLayoutEffect
+- [ ] useTransition
+- [ ] useDeferredValue
+- [ ] useImperativeHandle
+- [ ] Debugging Custom React Hooks
+- [ ] Easiest React Hook
+- [ ] useEffectEvent
+- [ ] New React Hook Breaks ALl The Rules
+- [ ] New React Hook Changes How You Use Forms
+- [ ] I Cannot Believe They Made A Hook For This
