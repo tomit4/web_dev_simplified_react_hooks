@@ -23,7 +23,7 @@ This will serve base application (usually from port 5173).
 - [x] useState
 - [x] useEffect
 - [x] useMemo
-- [ ] useRef
+- [x] useRef
 - [ ] useContext
 - [ ] useReducer
 - [ ] useCallback
