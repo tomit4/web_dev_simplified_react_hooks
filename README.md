@@ -24,8 +24,7 @@ This will serve base application (usually from port 5173).
 - [x] useEffect
 - [x] useMemo
 - [x] useRef
-- [ ] Write exensive docs on useContext and address linter warnings
-- [ ] useContext
+- [x] useContext
 - [ ] useReducer
 - [ ] useCallback
 - [ ] Custom Hooks
