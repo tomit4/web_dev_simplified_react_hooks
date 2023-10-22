@@ -30,7 +30,7 @@ This will serve base application (usually from port 5173).
 - [x] Custom Hooks
 - [x] useLayoutEffect
 - [x] useTransition
-- [ ] useDeferredValue
+- [x] useDeferredValue
 - [ ] useImperativeHandle
 - [ ] Debugging Custom React Hooks
 - [ ] Easiest React Hook
