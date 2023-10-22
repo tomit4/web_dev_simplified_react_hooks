@@ -42,3 +42,4 @@ This will serve base application (usually from port 5173).
 **HELPFUL NOTES**:
 
 - Using 'rfc' will create a react component on the fly via the LSP.
+- useState, useEffect, useMemo, useDeferredValue hooks thus far have been the most useful from what I've seen for beginner projects.
