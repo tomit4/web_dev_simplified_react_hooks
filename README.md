@@ -25,7 +25,7 @@ This will serve base application (usually from port 5173).
 - [x] useMemo
 - [x] useRef
 - [x] useContext
-- [ ] useReducer
+- [x] useReducer
 - [ ] useCallback
 - [ ] Custom Hooks
 - [ ] useLayoutEffect
