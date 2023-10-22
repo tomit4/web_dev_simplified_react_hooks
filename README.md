@@ -38,3 +38,7 @@ This will serve base application (usually from port 5173).
 - [ ] New React Hook Breaks ALl The Rules
 - [ ] New React Hook Changes How You Use Forms
 - [ ] I Cannot Believe They Made A Hook For This
+
+**HELPFUL NOTES**:
+
+- Using 'rfc' will create a react component on the fly via the LSP.
