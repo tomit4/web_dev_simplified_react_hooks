@@ -34,10 +34,11 @@ This will serve base application (usually from port 5173).
 - [x] useImperativeHandle
 - [x] Debugging Custom React Hooks
 - [x] Easiest React Hook(useId hook)
-- [ ] useEffectEvent
-- [ ] New React Hook Breaks ALl The Rules
-- [ ] New React Hook Changes How You Use Forms
-- [ ] I Cannot Believe They Made A Hook For This
+- [ ] useEffectEvent(not covered, experimental features as of 10/22/2023)
+- [ ] New React Hook Breaks ALl The Rules(not covered, experimental features as of 10/22/2023)
+- [ ] New React Hook Changes How You Use Forms(not covered, experimental features as of 10/22/2023)
+- [x] Note that in the above video, Kyle covers the action attribute of form HTML elements, useful for our project
+- [ ] I Cannot Believe They Made A Hook For This(not covered, experimental features as of 10/22/2023)
 
 **HELPFUL NOTES**:
 
